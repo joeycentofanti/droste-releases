@@ -3,6 +3,16 @@
     <channel>
         <title>Droste</title>
         <item>
+            <title>0.4</title>
+            <pubDate>Sat, 03 Oct 2026 12:30:57 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Colours in a frame match the screen more closely: the hidden screen now has your wallpaper, which translucent parts of apps (sidebars, toolbars, glass) take their colour from.
+]]></description>
+            <enclosure url="https://github.com/joeycentofanti/droste-releases/releases/download/v0.4/Droste-0.4.zip" length="4999685" type="application/octet-stream" sparkle:edSignature="rzXCueH7JmP5IR4JlNwezhS17MGradIYoGWp3rWMQ9+onBhBRn5jK6eeae3hmp4op7DubVQY6CqRhDflT5lLCg=="/>
+        </item>
+        <item>
             <title>0.3</title>
             <pubDate>Sat, 03 Oct 2026 12:21:33 -0700</pubDate>
             <sparkle:version>3</sparkle:version>
