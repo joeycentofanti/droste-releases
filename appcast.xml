@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Droste</title>
+        <item>
+            <title>0.2</title>
+            <pubDate>Sat, 03 Oct 2026 11:59:13 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[The first release for friends: frames you build and enter, Unwind, Location on your stays, a first-run walkthrough, and updates.
+]]></description>
+            <enclosure url="https://github.com/joeycentofanti/droste-releases/releases/download/v0.2/Droste-0.2.zip" length="4996862" type="application/octet-stream" sparkle:edSignature="pL2sNvql8h50Vd5G4Twza6SZywUcKO8hXcMvWhT009Ah+I6sEBnwINzP8EGYw7pPeUTUnexfVmg6k7VG0Z/OBg=="/>
+        </item>
+    </channel>
+</rss>
