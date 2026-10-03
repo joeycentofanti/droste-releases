@@ -3,6 +3,16 @@
     <channel>
         <title>Droste</title>
         <item>
+            <title>0.5</title>
+            <pubDate>Sat, 03 Oct 2026 12:49:54 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[A colour check: Settings → Check colours in the next frame compares what an app draws with what you see in a frame, and saves both to your Desktop.
+]]></description>
+            <enclosure url="https://github.com/joeycentofanti/droste-releases/releases/download/v0.5/Droste-0.5.zip" length="5022007" type="application/octet-stream" sparkle:edSignature="sbz6LFUdX/p8Exw5f7FTqh9Cc5cdusjTiy6RfgkB1Mwfsy/F3M/LPQeDrlD42MjLnBv5njqRO8jxp0OxZumCBA=="/>
+        </item>
+        <item>
             <title>0.4</title>
             <pubDate>Sat, 03 Oct 2026 12:30:57 -0700</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -21,16 +31,6 @@
             <description sparkle:format="markdown"><![CDATA[A test of updating: nothing new to see. The release page now leads with the app's download.
 ]]></description>
             <enclosure url="https://github.com/joeycentofanti/droste-releases/releases/download/v0.3/Droste-0.3.zip" length="4996866" type="application/octet-stream" sparkle:edSignature="FrXF+8fWaCvcCxWybhrbGjFaaucZsqXby+D0nkDFe6dFPCcoJvXl/7m34cbtVbbsCevZGxm7XQjYBRvn4UYJBQ=="/>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Sat, 03 Oct 2026 11:59:13 -0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[The first release for friends: frames you build and enter, Unwind, Location on your stays, a first-run walkthrough, and updates.
-]]></description>
-            <enclosure url="https://github.com/joeycentofanti/droste-releases/releases/download/v0.2/Droste-0.2.zip" length="4996862" type="application/octet-stream" sparkle:edSignature="pL2sNvql8h50Vd5G4Twza6SZywUcKO8hXcMvWhT009Ah+I6sEBnwINzP8EGYw7pPeUTUnexfVmg6k7VG0Z/OBg=="/>
         </item>
     </channel>
 </rss>
